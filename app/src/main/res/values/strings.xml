@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Jetpack-3-DataBinding</string>
+    <string name="mainfragment">MainFragment</string>
+    <string name="convert">Convert</string>
+</resources>
